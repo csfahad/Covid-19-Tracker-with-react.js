@@ -3,6 +3,8 @@
 
 Built a Covid-19 Tracker App using React, Covid-19 API and Material UI, added the Sort functionality based on country wise Total Active, Recovered and death cases, cases representation by Maps, charts and list. Added lots of functionality. learned lot of new things while making this Project.
 
+<h3> Check it out: https://covid-19-tracker-csfahad.vercel.app </h3>
+
 ## Screenshots
 
 ![frame_safari_dark](https://user-images.githubusercontent.com/76874725/219380180-f5d9c613-e1d1-43e1-ba0c-9c4ab38a64f4.png)
